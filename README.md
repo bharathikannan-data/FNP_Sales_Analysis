@@ -24,12 +24,11 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
 
 **Key Findings:**
 
-
+* []
     * **Revenue Trends:** [Summarize key observations about monthly sales trends, peak seasons, etc.]
     * **Product Performance:** [Highlight top-selling products, their performance across occasions, etc.]
     * **Customer Behavior:** [Summarize insights into customer spending habits, top-spending cities, etc.]
     * **Operational Efficiency:** [Discuss the relationship between order quantity and delivery time.]
-
 
 
 
