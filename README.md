@@ -32,6 +32,6 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
 
 
 
- <a href="https://github.com/bharathikannan-data/FNP_Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.png"> Dashboard</a>
+ <a href="https://github.com/bharathikannan-data/FNP_Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.png"> View Dashboard</a>
 
 
