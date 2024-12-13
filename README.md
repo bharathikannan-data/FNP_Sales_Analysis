@@ -29,6 +29,8 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
     * **Product Performance:** Highlight top-selling products, their performance across occasions, etc.
     * **Customer Behavior:** Summarize insights into customer spending habits, top-spending cities, etc.
     * **Operational Efficiency:** Discuss the relationship between order quantity and delivery time.
+**Dashboard:**
 
+* <a href="https://github.com/bharathikannan-data/FNP_Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.png"> Dashboard</a>
 
 
