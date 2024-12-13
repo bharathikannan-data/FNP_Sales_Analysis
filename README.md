@@ -33,5 +33,8 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
 
 
 
+**Dashboard**
+
+![Sales Analysis Dashboard](https://github.com/user-attachments/assets/02322d05-e4b9-4bea-9911-8b9eec8f4629)
 
 
