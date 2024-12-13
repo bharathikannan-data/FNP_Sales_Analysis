@@ -20,7 +20,8 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
 1. **Data Collection:** Relevant data was gathered from FNP's database, including details on products, orders, customers, and dates.
 2. **Data Cleaning and Preparation:** The data was cleaned to remove inconsistencies, errors, and missing values.
 3. **Data Analysis:** Various analyses were conducted to answer the defined business questions using tools like Excel, Tableau, or Python.
-4. **Dashboard Creation:** An interactive dashboard was created using appropriate tools to visualize the key findings and enable further exploration of the data.
+4. **Dashboard Creation:** An interactive dashboard was created using appropriate tools to visualize the key findings and enable further exploration of the data.<a href="https://github.com/bharathikannan-data/FNP_Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.png"> View Dashboard</a>
+
 
 **Key Findings:**
 
@@ -32,6 +33,5 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
 
 
 
- <a href="https://github.com/bharathikannan-data/FNP_Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.png"> View Dashboard</a>
 
 
