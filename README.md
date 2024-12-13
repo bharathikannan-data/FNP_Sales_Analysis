@@ -32,7 +32,4 @@ This project focuses on analyzing sales data from Ferns and Petals (FNP), a comp
 
 
 
-**License:**
-
-[Specify the license under which you are releasing this project, e.g., MIT License]
 
